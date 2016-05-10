@@ -2,8 +2,8 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\mousecamera.js">
     <Files>
-      <File FileName="Assets\scripts\minimapclick.cs" Line="6" Column="26" />
-      <File FileName="Assets\scripts\mousecamera.js" Line="28" Column="7" />
+      <File FileName="Assets\scripts\minimapclick.cs" Line="5" Column="2" />
+      <File FileName="Assets\scripts\mousecamera.js" Line="10" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
