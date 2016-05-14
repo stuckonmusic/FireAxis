@@ -1,9 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\mousecamera.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\TBS Framework\Scripts\Tutorial\SampleSquare.cs">
     <Files>
-      <File FileName="Assets\scripts\minimapclick.cs" Line="5" Column="2" />
-      <File FileName="Assets\scripts\mousecamera.js" Line="10" Column="3" />
+      <File FileName="Assets\scripts\imported\CustomUnitGenerator.cs" Line="3" Column="19" />
+      <File FileName="Assets\scripts\imported\RectangularSquareGridGenerator.cs" Line="31" Column="35" />
+      <File FileName="Assets\TBS Framework\Scripts\Tutorial\SampleSquare.cs" Line="5" Column="48" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
